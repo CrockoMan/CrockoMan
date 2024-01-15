@@ -3,14 +3,14 @@
 </div>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/konstantin-gurashkin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="crocko@mail.ru">
+    <img src="https://img.shields.io/badge/EMail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Mail Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://t.me/Crocko">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
