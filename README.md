@@ -77,7 +77,7 @@ xBase проекты</br>
 [Учёт электроэнергии потребителями энергоснабжающей организации](<https://github.com/CrockoMan/GOS_Energy>)</br>
 [Учёт пациентов в стоматолгической клинике](<https://github.com/CrockoMan/GOS_Energy>)</br>
 ---
-с другими проектами можно ознакомиться в репозитории
+[С другими проектами можно ознакомиться в репозитории](<https://github.com/CrockoMan?tab=projects>)</br>
 ---
 ### :fire: My Stats :
 
