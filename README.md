@@ -25,20 +25,22 @@
 
 I am a Python/C Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Crocko-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Crocko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Crocko)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
 ![TypeScript](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=Python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/C-316192?style=for-the-badge&logo=C&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Nginx-316192?style=for-the-badge&logo=Nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <!--
@@ -58,7 +60,25 @@ I am a Python/C Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 -->
 
 ---
-
+Python проекты</br>
+[Проект сайта волонтёрского центра](<https://github.com/CrockoMan/tortuga-center>)</br>
+[Криптокалькулятор для Android](<https://github.com/CrockoMan/MarginCack_for_android>)</br>
+[Криптокалькулятор для Windows](<https://github.com/CrockoMan/MarginCalckWin>)</br>
+[API backend для блога](<https://github.com/CrockoMan/api_blog>)</br>
+с другими проектами можно ознакомиться в репозитории
+---
+C/C++ проекты</br>
+[Библиотека для работы с трансивером TRC101](<https://github.com/CrockoMan/TRC101>)</br>
+[Бортовой компьютер автомобиля](<https://github.com/CrockoMan/car_board_computer>)</br>
+[Cистема дистанционного управления затвором фотокамеры](<https://github.com/CrockoMan/FotoMotion>)</br>
+[Установка приготовления колбас с возможностью копчения](<https://github.com/CrockoMan/SausageMaker>)</br>
+[Блок отключения отсечки двигателя Honda](<https://github.com/CrockoMan/CBR>)</br>
+с другими проектами можно ознакомиться в репозитории
+---
+xBase проекты</br>
+[Учёт потребления электроэнергии потребителями энергоснабжающей организации](<https://github.com/CrockoMan/GOS_Energy>)</br>
+[Учёт пациентов в стоматолгической клинике](<https://github.com/CrockoMan/GOS_Energy>)</br>
+---
 ### :fire: My Stats :
 
 <!--
