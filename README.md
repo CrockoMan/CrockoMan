@@ -68,8 +68,8 @@ Python проекты</br>
 ---
 C/C++ проекты</br>
 [Библиотека для работы с трансивером TRC101](<https://github.com/CrockoMan/TRC101>)</br>
-[Бортовой компьютер автомобиля](<https://github.com/CrockoMan/car_board_computer>)</br>
 [Cистема дистанционного управления затвором фотокамеры](<https://github.com/CrockoMan/FotoMotion>)</br>
+[Бортовой компьютер автомобиля](<https://github.com/CrockoMan/car_board_computer>)</br>
 [Установка приготовления колбас с возможностью копчения](<https://github.com/CrockoMan/SausageMaker>)</br>
 [Блок отключения отсечки двигателя Honda](<https://github.com/CrockoMan/CBR>)</br>
 ---
