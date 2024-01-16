@@ -4,7 +4,7 @@
 
 <div id="badges">
   <a href="www.linkedin.com/in/konstantin-gurashkin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>(https://www.python.org/)
   </a>
   <a href="crocko@mail.ru">
     <img src="https://img.shields.io/badge/EMail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Mail Badge"/>
