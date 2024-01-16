@@ -65,7 +65,6 @@ Python проекты</br>
 [Криптокалькулятор для Android](<https://github.com/CrockoMan/MarginCack_for_android>)</br>
 [Криптокалькулятор для Windows](<https://github.com/CrockoMan/MarginCalckWin>)</br>
 [API backend для блога](<https://github.com/CrockoMan/api_blog>)</br>
-с другими проектами можно ознакомиться в репозитории
 ---
 C/C++ проекты</br>
 [Библиотека для работы с трансивером TRC101](<https://github.com/CrockoMan/TRC101>)</br>
@@ -73,11 +72,12 @@ C/C++ проекты</br>
 [Cистема дистанционного управления затвором фотокамеры](<https://github.com/CrockoMan/FotoMotion>)</br>
 [Установка приготовления колбас с возможностью копчения](<https://github.com/CrockoMan/SausageMaker>)</br>
 [Блок отключения отсечки двигателя Honda](<https://github.com/CrockoMan/CBR>)</br>
-с другими проектами можно ознакомиться в репозитории
 ---
 xBase проекты</br>
 [Учёт потребления электроэнергии потребителями энергоснабжающей организации](<https://github.com/CrockoMan/GOS_Energy>)</br>
 [Учёт пациентов в стоматолгической клинике](<https://github.com/CrockoMan/GOS_Energy>)</br>
+---
+с другими проектами можно ознакомиться в репозитории
 ---
 ### :fire: My Stats :
 
