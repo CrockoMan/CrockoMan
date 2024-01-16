@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/konstantin-gurashkin">
+  <a href="https://linkedin.com/in/konstantin-gurashkin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="crocko@mail.ru">
+  <a href="https://mail.ru/crocko@mail.ru">
     <img src="https://img.shields.io/badge/EMail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Mail Badge"/>
   </a>
   <a href="https://t.me/Crocko">
@@ -31,7 +31,9 @@ I am a Python/C Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Crocko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Crocko)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Crocko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Crocko)  [![Linkedin Badge](https://img.shields.io/badge/Crocko-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/konstantin-gurashkin)
+
+
 
 ---
 
