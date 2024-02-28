@@ -64,9 +64,9 @@ I am a Python/C Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 Python проекты</br>
 [Сайт волонтёрского центра](<https://github.com/CrockoMan/tortuga-center>)</br>
+[API backend для блога](<https://github.com/CrockoMan/api_blog>)</br>
 [Криптокалькулятор для Android](<https://github.com/CrockoMan/MarginCack_for_android>)</br>
 [Криптокалькулятор для Windows](<https://github.com/CrockoMan/MarginCalckWin>)</br>
-[API backend для блога](<https://github.com/CrockoMan/api_blog>)</br>
 ---
 C/C++ проекты</br>
 [Библиотека для работы с трансивером TRC101](<https://github.com/CrockoMan/TRC101>)</br>
