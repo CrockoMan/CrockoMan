@@ -77,7 +77,7 @@ C/C++ проекты</br>
 ---
 xBase проекты</br>
 [Учёт электроэнергии потребителями энергоснабжающей организации](<https://github.com/CrockoMan/GOS_Energy>)</br>
-[Учёт пациентов в стоматолгической клинике](<https://github.com/CrockoMan/GOS_Energy>)</br>
+[Учёт пациентов в стоматолгической клинике](<https://github.com/CrockoMan/Tooth>)</br>
 ---
 [С другими проектами можно ознакомиться в репозитории](<https://github.com/CrockoMan?tab=repositories>)</br>
 ---
