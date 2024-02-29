@@ -68,7 +68,7 @@ Python проекты</br>
 [Криптокалькулятор для Android](<https://github.com/CrockoMan/MarginCack_for_android>)</br>
 [Криптокалькулятор для Windows](<https://github.com/CrockoMan/MarginCalckWin>)</br>
 ---
-C/C++ проекты</br>
+C/C++ uc проекты</br>
 [Библиотека для работы с трансивером TRC101](<https://github.com/CrockoMan/TRC101>)</br>
 [Cистема дистанционного управления затвором фотокамеры](<https://github.com/CrockoMan/FotoMotion>)</br>
 [Бортовой компьютер автомобиля](<https://github.com/CrockoMan/car_board_computer>)</br>
