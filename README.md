@@ -78,6 +78,9 @@ xBase проекты</br>
 [Учёт пациентов в стоматолгической клинике](<https://github.com/CrockoMan/Tooth>)</br>
 [Учёт электроэнергии потребителями энергоснабжающей организации](<https://github.com/CrockoMan/GOS_Energy>)</br>
 ---
+В разработке</br>
+[Управление и мониторинг режима работы термоконтроллеров Стек: Python, FastAPI, HTML, CSS, C, ESP8266](https://github.com/CrockoMan/thermo_sensors)</br>
+---
 [С другими проектами можно ознакомиться в репозитории](<https://github.com/CrockoMan?tab=repositories>)</br>
 ---
 ### :fire: My Stats :
