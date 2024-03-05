@@ -65,8 +65,7 @@ I am a Python/C Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 Python проекты</br>
 [Сайт волонтёрского центра](<https://github.com/CrockoMan/tortuga-center>)</br>
 [API backend для блога](<https://github.com/CrockoMan/api_blog>)</br>
-Криптокалькулятор [Android](<https://github.com/CrockoMan/MarginCack_for_android>) [Windows](<https://github.com/CrockoMan/MarginCalckWin>)</br>
-</br>
+Криптокалькулятор [Android](<https://github.com/CrockoMan/MarginCack_for_android>) / [Windows](<https://github.com/CrockoMan/MarginCalckWin>)</br>
 ---
 C/C++ uc проекты</br>
 [Cистема дистанционного управления затвором фотокамеры](<https://github.com/CrockoMan/FotoMotion>)</br>
