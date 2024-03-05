@@ -29,7 +29,7 @@ I am a Python/C Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I read tech articles.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Crocko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Crocko)  [![Linkedin Badge](https://img.shields.io/badge/Crocko-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/konstantin-gurashkin)
 
