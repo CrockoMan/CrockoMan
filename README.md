@@ -69,11 +69,11 @@ Python проекты</br>
 [Криптокалькулятор для Windows](<https://github.com/CrockoMan/MarginCalckWin>)</br>
 ---
 C/C++ uc проекты</br>
-[Библиотека для работы с трансивером TRC101](<https://github.com/CrockoMan/TRC101>)</br>
 [Cистема дистанционного управления затвором фотокамеры](<https://github.com/CrockoMan/FotoMotion>)</br>
 [Бортовой компьютер автомобиля](<https://github.com/CrockoMan/car_board_computer>)</br>
 [Установка приготовления колбас с возможностью копчения](<https://github.com/CrockoMan/SausageMaker>)</br>
 [Блок отключения отсечки двигателя Honda](<https://github.com/CrockoMan/CBR>)</br>
+[Библиотека для работы с трансивером TRC101](<https://github.com/CrockoMan/TRC101>)</br>
 ---
 xBase проекты</br>
 [Учёт пациентов в стоматолгической клинике](<https://github.com/CrockoMan/Tooth>)</br>
