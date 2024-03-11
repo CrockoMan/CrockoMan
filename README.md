@@ -71,7 +71,7 @@ I am a Python/C Developer <!--- <img src="https://media.giphy.com/media/WUlplcMp
 [Сайт волонтёрского центра](<https://github.com/CrockoMan/tortuga-center>)</br>
 [API backend для блога](<https://github.com/CrockoMan/api_blog>)</br>
 Криптокалькулятор [Android](<https://github.com/CrockoMan/MarginCack_for_android>) / [Windows](<https://github.com/CrockoMan/MarginCalckWin>)</br>
-В разработке: [Управление и мониторинг режима работы термоконтроллеров Стек: Python, FastAPI, HTML, CSS, C, ESP8266](https://github.com/CrockoMan/thermo_sensors)</br>
+<!---В разработке: [Управление и мониторинг режима работы термоконтроллеров Стек: Python, FastAPI, HTML, CSS, C, ESP8266](https://github.com/CrockoMan/thermo_sensors)</br>-->
 ---
 🟢 C/C++ uc проекты</br>
 [Cистема дистанционного управления затвором фотокамеры](<https://github.com/CrockoMan/FotoMotion>)</br>
