@@ -65,8 +65,10 @@ I am a Python/C Developer <!--- <img src="https://media.giphy.com/media/WUlplcMp
 ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)
 ![P](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
 -->
-
+🔴 В разработке: </br>
 ---
+[Удалённое управление и мониторинг режима работы WiFi термоконтроллеров Стек: Python, FastAPI, HTML, CSS, C, ESP8266](https://github.com/CrockoMan/thermo_sensors)</br>
+
 🟢 Python проекты</br>
 ---
 [Сайт волонтёрского центра](<https://github.com/CrockoMan/tortuga-center>)</br>
@@ -85,10 +87,6 @@ I am a Python/C Developer <!--- <img src="https://media.giphy.com/media/WUlplcMp
 ---
 [Учёт пациентов в стоматолгической клинике](<https://github.com/CrockoMan/Tooth>)</br>
 [Учёт электроэнергии потребителями энергоснабжающей организации](<https://github.com/CrockoMan/GOS_Energy>)</br>
-
-🔴 В разработке: </br>
----
-[Управление и мониторинг режима работы термоконтроллеров Стек: Python, FastAPI, HTML, CSS, C, ESP8266](https://github.com/CrockoMan/thermo_sensors)</br>
 
 🟢 [С другими проектами можно ознакомиться в репозитории](<https://github.com/CrockoMan?tab=repositories>)</br>
 
