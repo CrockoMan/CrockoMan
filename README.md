@@ -83,7 +83,7 @@ I am a Python/C Developer <!--- <img src="https://media.giphy.com/media/WUlplcMp
 [Блок отключения отсечки двигателя Honda](<https://github.com/CrockoMan/CBR>)</br>
 [Библиотека для работы с трансивером TRC101](<https://github.com/CrockoMan/TRC101>)</br>
 
-🟢 xBase проекты</br>
+🟢 xBase Windows GUI проекты</br>
 ---
 [Учёт пациентов в стоматолгической клинике](<https://github.com/CrockoMan/Tooth>)</br>
 [Учёт электроэнергии потребителями энергоснабжающей организации](<https://github.com/CrockoMan/GOS_Energy>)</br>
