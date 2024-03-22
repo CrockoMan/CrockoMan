@@ -67,7 +67,7 @@ I am a Python/C Developer <!--- <img src="https://media.giphy.com/media/WUlplcMp
 -->
 🔴 В разработке: </br>
 ---
-[Удалённое управление и мониторинг режима работы WiFi термоконтроллеров Стек: Python, FastAPI, HTML, CSS, C, ESP8266](https://github.com/CrockoMan/thermo_sensors)</br>
+[Удалённое управление и мониторинг режима работы WiFi термоконтроллеров Стек: Python, Django, DRF, FastAPI, HTML, CSS, C, ESP8266](https://github.com/CrockoMan/thermo_sensors)</br>
 
 🟢 Python проекты</br>
 ---
