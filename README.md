@@ -76,7 +76,7 @@ I am a Python/C embedded Developer <!--- <img src="https://media.giphy.com/media
 Криптокалькулятор [Android](<https://github.com/CrockoMan/MarginCack_for_android>) / [Windows](<https://github.com/CrockoMan/MarginCalckWin>)</br>
 [API благотворительного фонда](<https://github.com/CrockoMan/charity_fund>)</br>
 
-🟢 C/C++ uc проекты</br>
+🟢 C/C++ uc embedded проекты</br>
 ---
 [Cистема дистанционного управления затвором фотокамеры](<https://github.com/CrockoMan/FotoMotion>)</br>
 [Бортовой компьютер автомобиля](<https://github.com/CrockoMan/car_board_computer>)</br>
