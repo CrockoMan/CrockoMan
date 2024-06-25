@@ -90,7 +90,7 @@ I am a Python/C embedded Developer <!--- <img src="https://media.giphy.com/media
 [Учёт пациентов в стоматологической клинике](<https://github.com/CrockoMan/Tooth>)</br>
 [Учёт электроэнергии потребителями энергоснабжающей организации](<https://github.com/CrockoMan/GOS_Energy>)</br>
 
-🟢 [С другими проектами можно ознакомиться в репозитории](<https://github.com/CrockoMan?tab=repositories>)</br>
+🔴 [С другими проектами можно ознакомиться в репозитории](<https://github.com/CrockoMan?tab=repositories>)</br>
 
 ### :fire: My Stats :
 
