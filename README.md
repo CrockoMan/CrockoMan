@@ -30,7 +30,7 @@
 
 I am a Python/C embedded Developer <!--- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> --> with an engineering backgroud from Russia.
 
-- <!---:telescope:--> I’m working as a Software Engineer and contributing to frontend and backend for building applications.
+- <!---:telescope:--> I’m working as a Software Engineer and contributing backend for building applications.
 
 - <!---:seedling:--> Exploring Technical Content Writing.
 
