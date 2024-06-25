@@ -75,6 +75,7 @@ I am a Python/C embedded Developer <!--- <img src="https://media.giphy.com/media
 [Сайт tortuga-center](<https://github.com/CrockoMan/tortuga-center>)</br>
 [API благотворительного фонда](<https://github.com/CrockoMan/charity>)</br>
 Криптокалькулятор [Android](<https://github.com/CrockoMan/MarginCack_for_android>) / [Windows](<https://github.com/CrockoMan/MarginCalckWin>)</br>
+[Бот автоматизации работы редакции издательства "Системный Блокъ"](<https://github.com/CrockoMan/sysblokbot>)</br>
 
 🟢 C/C++ uc embedded проекты</br>
 ---
