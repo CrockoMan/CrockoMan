@@ -76,6 +76,7 @@ I am a Python/C embedded Developer <!--- <img src="https://media.giphy.com/media
 [API благотворительного фонда](<https://github.com/CrockoMan/charity>)</br>
 Криптокалькулятор [Android](<https://github.com/CrockoMan/MarginCack_for_android>) / [Windows](<https://github.com/CrockoMan/MarginCalckWin>)</br>
 [Бот автоматизации работы редакции издательства "Системный Блокъ" (https://sysblok.ru/)](<https://github.com/CrockoMan/sysblokbot>)</br>
+[Тестовое задание python-разработчик CPA Traffic Light](<https://github.com/CrockoMan/cpa_traffic_ligth>)</br>
 
 🟢 C/C++ uc embedded проекты</br>
 ---
