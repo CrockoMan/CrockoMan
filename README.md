@@ -77,6 +77,7 @@ I am a Python/C embedded Developer <!--- <img src="https://media.giphy.com/media
 Криптокалькулятор [Android](<https://github.com/CrockoMan/MarginCack_for_android>) / [Windows](<https://github.com/CrockoMan/MarginCalckWin>)</br>
 [Тестовое задание python-разработчик CPA Traffic Light](<https://github.com/CrockoMan/cpa_traffic_ligth>)</br>
 [Тестовое задание python-разработчик MADSOFT](<https://github.com/CrockoMan/madsoft_test>)</br>
+[Тестовое задание python-разработчик Мегафон](<https://github.com/CrockoMan/megafon_test_task>)</br>
 
 🟢 C/C++ uc embedded проекты</br>
 ---
