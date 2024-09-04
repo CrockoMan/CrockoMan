@@ -78,6 +78,8 @@ I am a Python/C embedded Developer <!--- <img src="https://media.giphy.com/media
 [Тестовое задание python-разработчик CPA Traffic Light](<https://github.com/CrockoMan/cpa_traffic_ligth>)</br>
 [Тестовое задание python-разработчик MADSOFT](<https://github.com/CrockoMan/madsoft_test>)</br>
 [Тестовое задание python-разработчик Мегафон](<https://github.com/CrockoMan/megafon_test_task>)</br>
+[Тестовое задание python-разработчик Интренет Медведи](<https://github.com/CrockoMan/bears_test_task>)</br>
+[Тестовое задание python-разработчик Mycego](<https://github.com/CrockoMan/mycego_test_task>)</br>
 
 🟢 C/C++ uc embedded проекты</br>
 ---
