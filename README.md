@@ -76,11 +76,11 @@ I am a Python/C embedded Developer <!--- <img src="https://media.giphy.com/media
 [API благотворительного фонда](<https://github.com/CrockoMan/charity>)</br>
 Криптокалькулятор [Android](<https://github.com/CrockoMan/MarginCack_for_android>) / [Windows](<https://github.com/CrockoMan/MarginCalckWin>)</br>
 
-[Тестовое задание python-разработчик CPA Traffic Light (Django)](<https://github.com/CrockoMan/cpa_traffic_ligth>)</br>
-[Тестовое задание python-разработчик MADSOFT FastAPI](<https://github.com/CrockoMan/madsoft_test>)</br>
-[Тестовое задание python-разработчик Мегафон (asyncio)](<https://github.com/CrockoMan/megafon_test_task>)</br>
-[Тестовое задание python-разработчик Интренет Медведи (FastAPI, aiogram)](<https://github.com/CrockoMan/bears_test_task>)</br>
-[Тестовое задание python-разработчик Mycego (Flask)](<https://github.com/CrockoMan/mycego_test_task>)</br>
+[Тестовое задание python-разработчик CPA Traffic Light](<https://github.com/CrockoMan/cpa_traffic_ligth>)   (Django)</br>
+[Тестовое задание python-разработчик MADSOFT](<https://github.com/CrockoMan/madsoft_test>)   (FastAPI)</br>
+[Тестовое задание python-разработчик Мегафон](<https://github.com/CrockoMan/megafon_test_task>)   (asyncio)</br>
+[Тестовое задание python-разработчик Интренет Медведи](<https://github.com/CrockoMan/bears_test_task>)   (FastAPI, aiogram)</br>
+[Тестовое задание python-разработчик Mycego](<https://github.com/CrockoMan/mycego_test_task>)   (Flask)</br>
 
 🟢 C/C++ uc embedded проекты</br>
 ---
