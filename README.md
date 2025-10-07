@@ -36,7 +36,7 @@ I am a Python/C embedded Developer <!--- <img src="https://media.giphy.com/media
 
 - <!---:zap:--> In my free time, I read tech articles.
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/KonstantinGurashkin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KonstantinGurashkin)  [![Linkedin Badge](https://img.shields.io/badge/Crocko-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/konstantin-gurashkin)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/KonstantinGurashkin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KonstantinGurashkin)  [![Linkedin Badge](https://img.shields.io/badge/KonstantinGurashkin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/konstantin-gurashkin)
 
 
 
