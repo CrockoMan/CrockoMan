@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/konstantin-gurashkin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mail.ru/crocko@mail.ru">
+  <a href="https://mail.ru/KonstantinGurashkin@mail.ru">
     <img src="https://img.shields.io/badge/EMail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Mail Badge"/>
   </a>
   <a href="https://t.me/KonstantinGurashkin">
