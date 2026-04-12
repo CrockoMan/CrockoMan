@@ -28,15 +28,10 @@
 ### :man_technologist: About Me :
 -->
 
-I am a Python/C embedded Developer <!--- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> --> with an engineering backgroud from Russia.
+Разработчик Python/C/xBase <!--- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
-- <!---:telescope:--> I’m working as a Software Engineer and contributing backend for building applications.
 
-- <!---:seedling:--> Exploring Technical Content Writing.
-
-- <!---:zap:--> In my free time, I read tech articles.
-
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/KonstantinGurashkin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KonstantinGurashkin)  [![Linkedin Badge](https://img.shields.io/badge/KonstantinGurashkin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/konstantin-gurashkin)
+- :mailbox: Для связи со мной можно использовать: [![Telegram Badge](https://img.shields.io/badge/KonstantinGurashkin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KonstantinGurashkin)  <!--- [![Linkedin Badge](https://img.shields.io/badge/KonstantinGurashkin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/konstantin-gurashkin)-->
 
 
 
