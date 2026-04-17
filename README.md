@@ -65,10 +65,10 @@
 [Удалённое управление и мониторинг режима работы WiFi термоконтроллеров Стек: Python, Django, DRF, FastAPI, HTML, CSS, C, ESP8266](https://github.com/CrockoMan/thermo_sensors)</br>
 
 🟢 Python проекты</br>
+---
+
 [2026 Тестовое задание Python developer Absolut POS: Опросы UGC](<https://github.com/CrockoMan/cpa_traffic_ligth>)   (Django)</br>
 
-
----
 [Телеграм-бот с парсером](<https://github.com/CrockoMan/vet_bot>)</br>
 [Сайт tortuga-center](<https://github.com/CrockoMan/tortuga-center>)</br>
 <!--- [API благотворительного фонда](<https://github.com/CrockoMan/charity>)</br> -->
