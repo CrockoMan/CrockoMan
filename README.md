@@ -67,7 +67,7 @@
 🟢 Python проекты</br>
 ---
 
-[2026 Тестовое задание Python developer Absolut POS: Опросы UGC](<https://github.com/CrockoMan/cpa_traffic_ligth>)   (Django)</br>
+[2026 Тестовое задание Python developer Absolut POS: Опросы UGC](<https://github.com/CrockoMan/absolut_pos>)   (Django)</br>
 
 [Телеграм-бот с парсером](<https://github.com/CrockoMan/vet_bot>)</br>
 [Сайт tortuga-center](<https://github.com/CrockoMan/tortuga-center>)</br>
